@@ -1,4 +1,4 @@
 assets
 ---
 
-This is the [Sky kit](http://omega.gg/Sky) assets repository.<br>
+This is the [Sky kit](https://omega.gg/Sky) assets repository.<br>
